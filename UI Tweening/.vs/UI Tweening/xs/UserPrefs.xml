@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F03780E6-7788-7280-D1E7-96047BFFA373}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UI Tweening/Demo/Demo.cs">
+    <Files>
+      <File FileName="Assets/UI Tweening/Scripts/ImageColorTween.cs" Line="73" Column="66" />
+      <File FileName="Assets/UI Tweening/Demo/Demo.cs" Line="81" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UI Tweening" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UI Tweening" expanded="True">
+                <Node name="Demo" expanded="True">
+                  <Node name="Demo.cs" selected="True" />
+                </Node>
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c1f69c8-517e-4b6b-9af5-72d4ef1e7447" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
